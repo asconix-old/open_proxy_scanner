@@ -68,8 +68,7 @@
                     <ul class="timeline">
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4><br style="display: block; margin: 12px 0;">Open<br>proxies</h4>
-                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                                <img class="img-circle img-responsive" src="assets/img/about/open_proxies.png" alt="Open proxies">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -84,8 +83,7 @@
 
                         <li>
                             <div class="timeline-image">
-                                <h4><br style="display: block; margin: 12px 0;">Ping<br>probes</h4>
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src="assets/img/about/ping_probes.jpg" alt="Ping probes">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -100,8 +98,7 @@
 
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4><br style="display: block; margin: 12px 0;">Data<br>collection</h4>
-                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                                <img class="img-circle img-responsive" src="assets/img/about/data_collection.jpg" alt="Data collection">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -275,34 +272,6 @@
             </div>
         </div>
     </section>
-
-    <!-- Clients Aside -->
-    <aside class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </aside>
 
     <section id="contact">
         <div class="container">
