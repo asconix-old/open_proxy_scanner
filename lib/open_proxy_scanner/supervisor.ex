@@ -8,7 +8,7 @@ defmodule OpenProxyScanner.Supervisor do
   def init([]) do
     children = [
       worker(OpenProxyScanner.Repo, []),
-      worker(OpenProxyScanner.Router, [], function: :start)
+#      worker(OpenProxyScanner.Router, [], function: :start)
     ]
     opts = [strategy: :one_for_one, name: OpenProxyScanner.Supervisor]
 
