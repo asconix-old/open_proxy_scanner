@@ -34,7 +34,7 @@ defmodule OpenProxyScanner.Mixfile do
       {:plug, "~> 0.7.0"},
       {:cowboy, "~> 1.0.0"},
       {:phoenix, "~> 0.4.0"},
-      {:postgrex, "~> 0.5.5"},
+      {:postgrex, "~> 0.6.0"},
       {:ecto, "~> 0.2.3"},
       {:plug_basic_auth, "~> 0.2.0"}
     ]
