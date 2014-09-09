@@ -106,7 +106,7 @@
                                     <h4 class="subheading">How we deal with data</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">The Open Proxy Scanner scans the entire internet and produces a large amount of data. The data collected by the scanner is not published in its row form (e.g. as IP/port lists). It is not intended for sale or rental. The main purpose of the Open Proxy Scanner is to provide Internet-wide network studies. The data collected by this research is published in several papers and visualizations where the original data is anonymized. We focus on publishing research results and not proxy lists etc.</p>
+                                    <p class="text-muted">The Open Proxy Scanner scans the entire internet and produces a large amount of data. The data collected by the scanner is not published in its row form (e.g. as IP/port lists). The main purpose of the Open Proxy Scanner is to provide Internet-wide network studies. The data collected by this research is published in several papers and visualizations where the original data is anonymized. We focus on publishing research results and not proxy lists.</p>
                                 </div>
                             </div>
                         </li>
